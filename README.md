@@ -1,1 +1,2 @@
 # NBC
+There are two scripts, namely, "feature-filter.R" and "NBC.R". The first script, "feature-filter.R" can be used to test whether the features that need to be used for training are well-defined, feasible and quality-wise good or not. For this purpose, a test file, "feature_filter_data.csv" is provided. Similarly, the second script "NBC.R" can be used to cluster the genes as OG, TS or DR/PA. For this a test file, "NBC_test_data.csv" is provided.
